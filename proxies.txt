@@ -1,0 +1,8 @@
+# Add your proxies below (one per line)
+# Supported formats:
+# 1) host:port (defaults to http)
+# 2) http://host:port
+# 3) socks4://host:port
+# 4) socks5://host:port
+# 5) http://user:password@host:port
+# 6) socks5://user:password@host:port
